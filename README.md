@@ -73,4 +73,5 @@ The notebook produces:
 
 ## Ethics & Privacy
 
-All subject identifiers have been removed from the dataset before inclusion in this repository. The private name-to-ID mapping is stored securely offline.
+All participants were informed prior to data collection that their health data and ECG measurements would be shared exclusively in anonymised form. Informed consent was obtained from each participant before their involvement in the study, covering the collection, processing, and anonymous publication of their physiological data. 
+All subject identifiers have been removed from the dataset before inclusion in this repository. The private name-to-ID mapping is stored securely offline and is not accessible through this repository.
