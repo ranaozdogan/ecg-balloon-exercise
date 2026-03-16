@@ -1,6 +1,6 @@
 # ECG Analysis: Pre- vs Post-Exercise (Balloon Inflation)
 
-This project had been conducted within the scope of BEN306-BIONSTURMENTATION course. This project analyses ECG signals recorded before and after a 2-minute balloon inflation exercise from **31 anonymised subjects**, using Neurobridge3 ECG sensors.
+This project had been conducted within the scope of the BENG306-BIOINSTRUMENTATION course. This project analyses ECG signals recorded before and after a 2-minute balloon inflation exercise from **31 anonymised subjects**, using Neurobridge3 ECG sensors.
 
 ## Study Design
 
