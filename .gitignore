@@ -1,0 +1,38 @@
+# ── Data files (keep off GitHub for privacy / size reasons) ────────────────
+data/
+*.xlsx
+
+# Block all CSVs except the anonymised demographics sheet
+*.csv
+!subject_demographics.csv
+
+# ── Private mapping (must NEVER be committed) ───────────────────────────────
+*mapping*
+*PRIVATE*
+
+# ── Notebook checkpoints ────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ── Environments ────────────────────────────────────────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ── OS / editor ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
