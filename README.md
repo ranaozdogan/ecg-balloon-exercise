@@ -43,7 +43,7 @@ ecg_project/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ecg-balloon-exercise.git
+git clone https://github.com/ranaozdogan/ecg-balloon-exercise.git
 cd ecg-balloon-exercise
 
 # 2. Install dependencies
